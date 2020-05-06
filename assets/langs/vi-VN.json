@@ -26,7 +26,7 @@
     "edit": {
         "select_icon": "Lựa chọn biểu tượng tùy chọn",
         "reset_icon": "Đặt lại biểu tượng",
-        "rbg_color": "Giữ lâu để sửa mầu",
+        "rbg_color": "Giữ lâu để sửa màu",
         "edit": "Sửa",
         "arrange": "Xắp xếp",
         "move": "Di chuyển",
@@ -51,7 +51,7 @@
         "1_touch": "Có thể mở với 1 chạm"
     },
     "rgb": {
-        "pick_color": "Chọn mầu!"
+        "pick_color": "Chọn màu!"
     },
     "webview": {
         "edit": "Sửa website",
@@ -75,7 +75,7 @@
         "use_https": "Dùng https",
         "connect": "Kêt nối",
         "sync": "Đồng bộ qua Google Cloud",
-        "theme_color": "Chủ đề mầu",
+        "theme_color": "Chủ đề màu",
         "language": "Ngôn ngữ",
         "layout": "Bố trí",
         "about": "Thông tin về HassKit",
